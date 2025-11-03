@@ -86905,7 +86905,7 @@ A.m7.prototype={
 ac(){return new A.DR()}}
 A.DR.prototype={
 ao(){this.aH()
-this.e=""},
+this.e="https://script.google.com/macros/s/AKfycbxPAiVXvz3VdQ6fyPZXfA02tZsfx2G5CWir18tA5i00CjTsIdSV_kExQiyN3GYimlKBwA/exec"},
 adz(){this.a3(new A.ale())},
 I(a){var s=this,r=null,q=s.a.c,p=s.e,o=s.d
 q=[new A.Af(q,p,r),new A.A6(q,p,r),new A.xY(q,p,r),new A.Bg(q,s.gady(),r)][o]
@@ -88098,7 +88098,7 @@ m=A.ag(["type","prayer_activity","timestamp",j,"user",h,"date",a,"fard_prayers",
 A.dI("[GoogleSheets] Syncing prayer activity to: "+d)
 A.dI("[GoogleSheets] Data: "+B.ai.f7(m))
 d=A.eY(d)
-g=A.ag(["Content-Type","application/json"],g,g)
+g=A.ag(["Content-Type","text/plain;charset=utf-8"],g,g)
 s=7
 return A.A(A.aEa(d,B.ai.f7(m),g),$async$rO)
 case 7:l=a3
@@ -88148,7 +88148,7 @@ m=A.ag(["type","zikr_activity","timestamp",j,"user",h,"date",b,"category",a,"zik
 A.dI("[GoogleSheets] Syncing zikr activity to: "+e)
 A.dI("[GoogleSheets] Data: "+B.ai.f7(m))
 e=A.eY(e)
-g=A.ag(["Content-Type","application/json"],g,g)
+g=A.ag(["Content-Type","text/plain;charset=utf-8"],g,g)
 s=7
 return A.A(A.aEa(e,B.ai.f7(m),g),$async$x6)
 case 7:l=a2
