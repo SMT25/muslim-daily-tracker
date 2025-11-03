@@ -86905,7 +86905,7 @@ A.m7.prototype={
 ac(){return new A.DR()}}
 A.DR.prototype={
 ao(){this.aH()
-this.e="https://script.google.com/macros/s/AKfycbzugE0chRIqNQyQMmDcIJ7Hq4MKInGd9B3yBfRV6jo3iKx_bTCzwF1KklQSyQXwsx0Asg/exec"},
+this.e=""},
 adz(){this.a3(new A.ale())},
 I(a){var s=this,r=null,q=s.a.c,p=s.e,o=s.d
 q=[new A.Af(q,p,r),new A.A6(q,p,r),new A.xY(q,p,r),new A.Bg(q,s.gady(),r)][o]
